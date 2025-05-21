@@ -1,0 +1,26 @@
+# Go
+/backend/bin/
+/backend/pkg/
+/backend/coverage.out
+
+# Node
+node_modules/
+/frontend/web/dist/
+/frontend/web/.next/
+
+# Env & secrets
+.env
+
+# OS
+.DS_Store
+
+# Docker
+docker/db/data/
+
+# Logs
+*.log
+
+# Others
+.vscode/
+.idea/
+
